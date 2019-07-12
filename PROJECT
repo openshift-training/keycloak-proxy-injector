@@ -1,0 +1,3 @@
+version: "2"
+domain: openshift-training.io
+repo: github.com/openshift-training/keycloak-proxy-injector
